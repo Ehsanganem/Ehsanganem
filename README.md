@@ -43,4 +43,4 @@ A Space Shooter simulation i did as a project for Advanced OPP Course in C++ thi
 
 ### 📫 **Get in Touch**:
 - **GitHub**: [Ehsan Ganim](https://github.com/Ehsanganem)
-- **Email**: ehsanganim@gmail.com
+- **Email**: ganimehsan@gmail.com
