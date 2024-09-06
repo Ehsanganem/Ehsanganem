@@ -34,9 +34,11 @@ I'm a passionate developer with a strong background in **Object-Oriented Program
 - **[Google AutoComplete Engine](https://github.com/Ehsanganem/GoogleAutoComplete)**  
   A Python-based autocomplete engine using reverse indexing, fuzzy matching, and multithreading.
 
-- **[Smart Expense Tracker](https://github.com/Ehsanganem/SmartExpenseTracker)**  
-  An Android app for tracking expenses with multi-currency support.
-
+- **[MyGuide](https://github.com/Ehsanganem/myguide)**  
+  An Android app for Booking guides and finding local guides on trips.
+  - **[StarWars Simulation](https://github.com/Ehsanganem/StarWarsSimulation)**  
+  About
+A Space Shooter simulation i did as a project for Advanced OPP Course in C++ this project showcases my skills in design patterns , smart pointers and stl
 ---
 
 ### 📫 **Get in Touch**:
