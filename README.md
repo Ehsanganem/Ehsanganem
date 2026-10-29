@@ -1,46 +1,45 @@
-# 👋 Hi, I'm **Ehsan Ganim** 
+# Hi, I'm Ehsan Ganim 👋
 
-🎓 **B.Sc. Computer Science Graduate**  
-💻 **Mobile Developer | Cloud Enthusiast | Backend Developer**  
+**Software Development Engineer** building real-time, high-performance systems for defense and aviation.
 
----
+- 🛰️ Currently an **ATE Software Developer**, building C#/.NET automated test software for advanced systems
+- ⚙️ Previously built real-time radar and sensor processing services in **C++14/C++20** and **Node.js/TypeScript** at TSG IT Advanced Systems
+- 🏆 Developer of the Year, TSG IT Advanced Systems
+- 🎓 B.Sc. Computer Science, Tel-Hai College
+- 👨‍🏫 Former C/C++ instructor at the Cyber Education Center
 
-### 🚀 **About Me:**
-I'm a passionate developer with a strong background in **Object-Oriented Programming (OOP)** and mobile app development. I love working with cloud platforms like **AWS** and **Firebase** to create scalable and robust applications. My expertise spans across **C++**, **Python**, **Java**, **Android Development**, and **JavaScript/Node.js** for backend services.
+## What I work on
 
----
+- **Automatic Test Equipment (ATE):** C#/.NET and WinForms apps for test execution, equipment monitoring, and diagnostics
+- **Hardware-software integration:** TCP/UDP interfaces for control, telemetry, and real-time data acquisition
+- **Binary protocols:** schema-driven parsers for ASTERIX (CAT 048) and SAPIENT (BSI Flex 335 / protobuf) with bit-level operations
+- **Concurrency:** thread-safe bounded queues, thread pools, and async/multithreaded pipelines for multi-sensor processing
+- **Modern C++:** RAII, smart pointers, move semantics, and migrating legacy C++03 code to C++14/C++20
+- **Streaming backends:** Kafka pipelines, TCP/UDP/WebSocket gateways, MongoDB, and Redis
 
-### 🛠️ **Tech Stack:**
+## Tech stack
 
-- **Languages**:  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-- **Mobile Development**:  
-  ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+## Languages
 
-- **Backend & Cloud**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+Arabic (native) · Hebrew (fluent) · English (fluent)
 
----
+## Connect
 
-### 🧑‍💻 **Notable Projects**:
-
-- **[Google AutoComplete Engine](https://github.com/Ehsanganem/GoogleAutoComplete)**  
-  A Python-based autocomplete engine using reverse indexing, fuzzy matching, and multithreading.
-
-- **[MyGuide](https://github.com/Ehsanganem/myguide)**  
-  An Android app for Booking guides and finding local guides on trips.
-- **[StarWars Simulation](https://github.com/Ehsanganem/StarWarsSimulation)**  
-  About
-A Space Shooter simulation i did as a project for Advanced OPP Course in C++ this project showcases my skills in design patterns , smart pointers and stl
----
-
-### 📫 **Get in Touch**:
-- **GitHub**: [Ehsan Ganim](https://github.com/Ehsanganem)
-- **Email**: ganimehsan@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-ganim/)
+[![Email](https://img.shields.io/badge/Email-ganimehsan%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ganimehsan@gmail.com)
